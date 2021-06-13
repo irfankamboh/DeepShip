@@ -1,7 +1,7 @@
 # DeepShip
 
 keeping in view the limitation of file size and space on github directory, a part of dataset could be uploaded on this repository. The remaining part can be downloaded by 
-sending the email to mradonis2002@gmail.com 
+sending the email to mirfankamboh@gmail.com 
 
 DeepShip offers an opportunity to train and evaluate the performance of different algorithms, and to identify their strengths and weakness. The advantage of this dataset is that
 it is recorded in the real world sea environment in different seasons and sea conditions. Along with vessels signals, recorded signals also have natural background noise, marine
