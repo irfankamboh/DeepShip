@@ -1,8 +1,4 @@
 # DeepShip
-
-keeping in view the limitation of file size and space on github directory, a part of dataset could be uploaded on this repository. The remaining part can be downloaded by 
-sending the email to mirfan@mail.nwpu.edu.cn 
-
 DeepShip offers an opportunity to train and evaluate the performance of different algorithms, and to identify their strengths and weakness. The advantage of this dataset is that
 it is recorded in the real world sea environment in different seasons and sea conditions. Along with vessels signals, recorded signals also have natural background noise, marine
 mammal noise and noise of any other human initiated activity. This dataset consists of 47 hours and 04 minutes of real world underwater recordings of 265 different ships belong
@@ -22,5 +18,9 @@ The data is acquired by using an ocean sonics icListen AF hydrophone, as shown i
 smart hydrophone is a broadband digital ultra-quit hydrophone, with bandwidth 1 Hz-12 kHz, dynamic range 120 dB, sensitivity -170 dBV re.  Pa, power&input 12-24 Vdc, 0.8 W, 
 case material is engineered plastic and titanium with depth capacity of 200m & 3500m respectively. It is a compact, all-in-one instrument designed and manufactured by 
 replacing separate pre-amplifier, filters, converters and data link units with a compact unit, capable of processing real time acquired data with direct digital output.
+
+
+keeping in view the limitation of file size and space on github directory, a part of dataset could be uploaded on this repository. The remaining part can be downloaded by 
+sending the email to mradonis2001@google.com
 
 
