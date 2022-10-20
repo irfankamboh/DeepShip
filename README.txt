@@ -13,12 +13,10 @@ speeds ranging between 1 and 3 knots (0.5 - 1.5 m/s). Further, in the summer and
 main species include cetaceans (whales and dolphins) and salmon. The southern area is acutely influenced by human activity such as recreational boating, shipping, and 
 industry affecting the acoustic environment of the ocean. Based on above mentioned reasons it is to mention that the recorded signals may contain background noise both 
 from human and marine life activities.
-
 The data is acquired by using an ocean sonics icListen AF hydrophone, as shown in Figure 3. Main specifications of the used hydrophone are shown in Table 2. The icListen 
 smart hydrophone is a broadband digital ultra-quit hydrophone, with bandwidth 1 Hz-12 kHz, dynamic range 120 dB, sensitivity -170 dBV re.  Pa, power&input 12-24 Vdc, 0.8 W, 
 case material is engineered plastic and titanium with depth capacity of 200m & 3500m respectively. It is a compact, all-in-one instrument designed and manufactured by 
 replacing separate pre-amplifier, filters, converters and data link units with a compact unit, capable of processing real time acquired data with direct digital output.
-
 
 keeping in view the limitation of file size and space on github directory, a part of dataset could be uploaded on this repository. The remaining part can be downloaded by 
 sending the email to mradonis2001@google.com
